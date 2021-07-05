@@ -1,0 +1,23 @@
+body{
+  background-color: #B6C867;
+}
+h1{
+  color: #A35709;
+  font-size: 100px;
+  text-align: center;
+}
+.AvocadoNoka{
+  text-align: center;
+}
+h3{
+  color: #A35709;
+  text-align: center;
+}
+hr{
+  border-color: #A35709;
+  width: 80%
+}
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
